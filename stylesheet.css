@@ -1,11 +1,17 @@
 body {
 	background: #52be80;
+	font-family: 'Inconsolata';
+}
+
+h2 {
+	text-align: center;
+	margin-top: 40px;
 }
 
 .container {
 	height: 400px;
 	width: 270px;
-	margin: 100px auto;
+	margin: 60px auto;
 	background: #ffffff;
 }
 
