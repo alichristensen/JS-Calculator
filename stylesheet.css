@@ -9,8 +9,8 @@ body {
 	background: #ffffff;
 }
 
-#displayBox {
-	width: inherit;
+input {
+	width: 98%;
 	height: 50px;
 	background: #e0e0e0;
 }
